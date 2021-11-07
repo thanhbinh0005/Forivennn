@@ -1,11 +1,11 @@
 const CONFIG = {
     titleWeb: "love ",
-    introTitle: 'Nguyễn thùy dương ',
+    introTitle: 'Nguyễn Thùy Dương ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao anh cứ đi nhầm đường
     Lạc vào tim em lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hey girl!!',
+    btnIntro: 'Dạ !',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Yêu không !!',
